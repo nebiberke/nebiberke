@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nebi Berke</h1>
 <h3 align="center">WEB AND MOBİLE DEVELOPER</h3>
+
 <hr>
 
 <h3 align="left">Connect with me:</h3>
@@ -9,7 +10,9 @@
 <a href="https://linkedin.com/in/nebiberke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nebiberke" height="30" width="40" /></a>
 <a href="https://instagram.com/nebiberke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nebiberke" height="30" width="40" /></a>
 </p>
+
 <hr>
+
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
 <h4 align="center">WEB</h3>
@@ -37,10 +40,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  </p>
 </div>
 
-<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nebiberke&show_icons=true&locale=en&layout=compact" alt="nebiberke" /></div>
+<div align=center>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nebiberke&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nebiberke" /></p>
 <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nebiberke&show_icons=true&locale=en&theme=tokyonight" alt="nebiberke" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nebiberke&theme=buefy-dark" alt="nebiberke" /></p>
+<br>
+</div>
 
-<div align=center>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nebiberke&show_icons=true&locale=en" alt="nebiberke" /></div>
-<br>
-<div align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=nebiberke&" alt="nebiberke" /></div>
-<br>
